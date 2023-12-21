@@ -6,6 +6,8 @@
         "algorithm": "c",
         "iterator": "c",
         "xmemory": "c",
-        "xutility": "c"
+        "xutility": "c",
+        "xlocale": "c",
+        "xstring": "c"
     }
 }
