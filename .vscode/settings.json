@@ -9,6 +9,7 @@
         "xutility": "c",
         "xlocale": "c",
         "xstring": "c",
-        "system_error": "c"
+        "system_error": "c",
+        "xiosbase": "c"
     }
 }
